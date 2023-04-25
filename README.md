@@ -4,7 +4,7 @@ I started off with the lexicon.sqlite database from this repo: https://github.co
 
 From there I used it to filter and create some new tables that would make search a lot easier.
 
-Column Names:
+COLUMN NAMES
 
 index: column index.
 
