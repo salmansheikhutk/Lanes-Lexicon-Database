@@ -5,7 +5,9 @@ I started off with the lexicon.sqlite database from this repo: https://github.co
 From there I used it to filter and create some new tables that would make search a lot easier.
 
 Column Names:
+
 index: column index.
+
 id: unique id for each word.
 search_word: These are all of the words in Lanes Lexicon without any tashkeel.
 root: All of the roots corresponding to these words.
