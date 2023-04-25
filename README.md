@@ -18,4 +18,4 @@ display_word: This is the same list as the search_word, but with all of the tash
 
 itype: It contains if the word is a verb form, then which verb form? etc.
 
-xml: This contains the entire definition of the world.
+xml: This contains the entire definition of the word.
